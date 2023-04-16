@@ -32,12 +32,16 @@ cars.pop(4)
 print(cars)
 
 #`problem 12. Sort the array in ascending order`
+cars.sort()
 
 #`problem 13. print the array to the console`
+print(cars)
 
 #`problem 14. Sort the array in descending order`
+cars.sort(reverse=True)
 
 #`problem 15. print the array to the console`
+print(cars)
 
 #`problem 16. create a variable called my_array_length with a value of the cars array length (spelling, capitilization, and spaces matter)`
 
