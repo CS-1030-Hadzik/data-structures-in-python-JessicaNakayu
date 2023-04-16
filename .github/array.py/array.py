@@ -15,11 +15,15 @@ cars.append('Buick')
 
 #`problem 6. print the array to the console`
 print(cars)
+
 #`problem 7. Print the 4th element in the array (Not index 4, element 4)`
+print(cars[3])
 
 #`problem 8. Insert 'Toyota' into element 3 in the array`
+cars.insert(2, 'Toyota')
 
 #`problem 9. print the array to the console`
+print(cars)
 
 #`problem 10. Remove element 5 of the array (hint look at options for pop())`
 
